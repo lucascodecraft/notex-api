@@ -27,6 +27,6 @@ namespace Notex.Domain.Commands
                 .Requires()
                 .HasMinLen(Title, 3, nameof(Title), "O Titulo deve ser maior que 3")
                 .HasMinLen(User, 6, nameof(Title), "Usuário invalido"));
-                }
+        }
     }
 }
