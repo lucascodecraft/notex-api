@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Notex.Domain.Core.Commands;
+using System;
 using System.Collections.Generic;
 using System.Text;
 

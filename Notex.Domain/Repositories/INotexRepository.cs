@@ -8,7 +8,7 @@ namespace Notex.Domain.Repositories
     public interface INotexRepository
     {
         void Create(NotexItem notex);
-        void UpDate(NotexItem notex);
+        void Update(NotexItem notex);
         NotexItem GetById(Guid id, string user);
         IEnumerable<NotexItem> GetAll(string user);
         IEnumerable<NotexItem> GetDone(string user);

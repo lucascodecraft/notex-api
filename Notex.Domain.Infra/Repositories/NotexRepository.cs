@@ -60,7 +60,7 @@ namespace Notex.Domain.Infra.Repositories
                 .OrderBy(x => x.Date);
         }
 
-        public void UpDate(NotexItem notex)
+        public void Update(NotexItem notex)
         {
             _context.Entry(notex).State = EntityState.Modified;
             _context.SaveChanges();

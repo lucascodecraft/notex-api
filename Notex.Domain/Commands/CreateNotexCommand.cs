@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 using Flunt.Validations;
+using Notex.Domain.Core.Commands;
 
 namespace Notex.Domain.Commands
 {
-    public sealed class CreateNotexCommand : CommandBase
+    public class CreateNotexCommand : CommandBase
     {
         public CreateNotexCommand()
         { }

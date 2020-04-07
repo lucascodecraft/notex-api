@@ -6,11 +6,10 @@ namespace Notex.Domain.Model
 {
     public class NotexItem : Entity
     {
-        public NotexItem(string title, string user, bool done, DateTime date)
+        public NotexItem(string title, string user, DateTime date)
         {
             Title = title;
             User = user;
-            Done = done;
             Date = date;
         }
 

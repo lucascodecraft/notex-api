@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notex.Domain.Infra", "Notex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notex.Domain.API", "Notex.Domain.API\Notex.Domain.API.csproj", "{9673DE75-3C31-4E0C-9BDE-5757EAF3CC6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notex.Domain.Core", "Notex.Domain.Core\Notex.Domain.Core.csproj", "{998DC657-6548-4D9B-9317-2706BC2CB3DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notex.Domain.Core", "Notex.Domain.Core\Notex.Domain.Core.csproj", "{D23209DB-DB35-4A35-A92C-2A93D76BED91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{9673DE75-3C31-4E0C-9BDE-5757EAF3CC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9673DE75-3C31-4E0C-9BDE-5757EAF3CC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9673DE75-3C31-4E0C-9BDE-5757EAF3CC6C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{998DC657-6548-4D9B-9317-2706BC2CB3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{998DC657-6548-4D9B-9317-2706BC2CB3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{998DC657-6548-4D9B-9317-2706BC2CB3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{998DC657-6548-4D9B-9317-2706BC2CB3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23209DB-DB35-4A35-A92C-2A93D76BED91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23209DB-DB35-4A35-A92C-2A93D76BED91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23209DB-DB35-4A35-A92C-2A93D76BED91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23209DB-DB35-4A35-A92C-2A93D76BED91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

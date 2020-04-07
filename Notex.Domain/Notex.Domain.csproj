@@ -6,6 +6,11 @@
 
   <ItemGroup>
     <PackageReference Include="Flunt" Version="1.0.4" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Notex.Domain.Core\Notex.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>

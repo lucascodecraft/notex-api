@@ -1,4 +1,5 @@
 ﻿using Flunt.Validations;
+using Notex.Domain.Core.Commands;
 using System;
 
 namespace Notex.Domain.Commands

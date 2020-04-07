@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Notex.Domain\Notex.Domain.csproj" />
+    <PackageReference Include="Flunt" Version="1.0.4" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
   </ItemGroup>
 
 </Project>
